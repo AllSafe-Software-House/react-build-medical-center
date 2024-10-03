@@ -1,1 +1,0 @@
-import{j as r}from"./index-CwwpYieH.js";import{O as t}from"./index-Vfx_x5Sr.js";import{R as e}from"./index-CEvVNxGR.js";import"./index-CFkpsgaH.js";function n(){return r.jsxs(r.Fragment,{children:[r.jsx(t,{num:6,showButton:!1}),r.jsx(e,{})]})}export{n as default};
